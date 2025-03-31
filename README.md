@@ -1,5 +1,5 @@
 # mudskipper-3D-tracking-ICB-2025
-3d tracking for mudskippers - Choi et al. ICB 2025
+3D tracking for mudskippers - Choi et al. ICB 2025 (in revision)
 
 > **Note**:  
 > - The OBJ file name (e.g., `8_24_2024.obj`) reflects the date it was measured.  
@@ -109,15 +109,17 @@ Uses two camera views (e.g., “left” and “right” cameras) to reconstruct 
 
 - **DLTdv8**: [DLTdv8 on GitHub (Boston University)](http://www.unc.edu/~thedrick/dltdv/) – Tools for 2D/3D digitizing in MATLAB.  
 - **MATLAB**: [MathWorks Documentation](https://www.mathworks.com/help/).
+- **PolyCam**: [Gaussian Splatting](https://poly.cam).
 
-If you use this code in research, please cite your relevant sources and mention this repository.
+If you use this code in research, please cite our paper.
+**To be added**
 
 ---
 
 ## License
 
-Include the license of your choice here (e.g., MIT, GPL, etc.).
+**To be added**
 
 ---
 
-**We hope this walkthrough clarifies each script’s purpose and usage.** Feel free to open an issue or submit a pull request if you encounter any problems or have improvements!
+**We hope this walkthrough clarifies each script’s purpose and usage.** Feel free to open an issue or submit a pull request if you encounter any problems or have improvements (dchoi319@gatech.edu).
