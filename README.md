@@ -122,4 +122,4 @@ If you use this code in research, please cite our paper.
 
 ---
 
-**We hope this walkthrough clarifies each script’s purpose and usage.** Feel free to open an issue or submit a pull request if you encounter any problems or have improvements (dchoi319@gatech.edu).
+**We hope this walkthrough clarifies each script’s purpose and usage.** Feel free to open an issue or submit a pull request if you encounter any problems or have improvements (dchoi319@gatech.edu or saadb@chbe.gatech.edu).
